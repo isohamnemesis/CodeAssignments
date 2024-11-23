@@ -1,3 +1,4 @@
 FileManagementSystem/.idea/vcs.xml
 bin/
 *.log
+.vscode/
