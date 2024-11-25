@@ -4,3 +4,5 @@ is
 Git
 coursework
 Testing
+I am testing stashing
+On git
