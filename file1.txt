@@ -6,3 +6,4 @@ coursework
 Testing
 I am testing stashing
 On git
+Adding a new line for testing git rebase for dropping commits
